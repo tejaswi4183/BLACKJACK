@@ -1,0 +1,51 @@
+body{
+    background-image:url(image3.jpg);
+    background-repeat:no-repeat;
+ 
+  
+    
+}
+a{
+    text-decoration:none;color:black;
+}
+#head{
+    width:500px;
+height:600px;
+
+
+margin-left:200px;
+margin-right:300px;
+border:5px solid rgb(10, 10, 10);
+
+background: rgb(216,217,222);
+background: radial-gradient(circle, rgba(216,217,222,1) 0%, rgba(10,10,10,1) 100%);
+
+}
+#heading{
+    padding-top:150px;
+    font-size:50px;
+    text-shadow:2px 2px white;
+    color:rgb(8, 8, 8);
+    font: bold 330%/100% "Lucida Grande";
+
+}
+button{
+    height:50px;
+    width:200px;
+    border-color: black;
+    font-weight:bold;
+    background-color:rgb(168, 233, 230); font-family:'Lobster', helvetica, arial;
+}
+#message-el{
+    font-family: 'Lobster', helvetica, arial;
+    color:rgb(7, 7, 7);
+    font-weight:bold;
+    font-size:30px;
+    text-shadow: 0 0 2px #fff,
+      0 0 4px rgb(211, 139, 233), 
+      0 0 3px rgb(237, 248, 134), 
+      0 0 5px rgb(214, 243, 241),
+      0 0 3px rgb(123, 69, 136),
+      0 0 4px rgb(13, 13, 14), 
+      0 0 3px rgb(225, 236, 225);
+}
